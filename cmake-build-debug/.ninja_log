@@ -1,0 +1,26 @@
+# ninja log v6
+462	591	1743532219192495424	PR3_2_iter	57c11d09e85d2ad9
+4	818	1743531843560256036	CMakeFiles/PR3_2_iter.dir/tests/tests.cpp.o	4aed650f20e86ac2
+114	137	1743532027948080608	lib/libgmock_main.a	c7b38932d055d06e
+109	748	1743532028580383652	/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_2/PR3_2_iter/cmake-build-debug/PR3_2_iter_tests[1]_tests.cmake	ef91acb56fa066bb
+87	114	1743532027920481436	lib/libgmock.a	c8c98fe986cb389b
+3	744	1743531843559866630	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	3081a10bd9574616
+87	109	1743532027920681806	lib/libgtest_main.a	ddd85a377c936fa9
+3	1240	1743531843559617386	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	68f536313d4b310d
+4	802	1743531843560442740	CMakeFiles/PR3_2_iter_tests.dir/tests/tests.cpp.o	489fb2446260e665
+109	748	1743532028580383652	PR3_2_iter_tests	ef91acb56fa066bb
+2	1853	1743531843558555121	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	4a68c8f35cbcdb4e
+578	1225	1743531844134144737	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	813f507ebe50973e
+109	748	1743532028580383652	PR3_2_iter_tests[1]_tests.cmake	ef91acb56fa066bb
+3	81	1743532464437991212	build.ninja	bac0863371e770e4
+8	87	1743532027841810900	lib/libgtest.a	b51b69e6de22023b
+8	462	1743532218738388544	CMakeFiles/PR3_2_iter.dir/main.cpp.o	fb3d22f23d089ee8
+6	405	1743532074629761110	CMakeFiles/PR3_2_iter_tests.dir/main.cpp.o	8e1d3218a8d65d5e
+5	482	1743532466506202977	CMakeFiles/PR3_2_iter.dir/main.cpp.o	fb3d22f23d089ee8
+5	484	1743532466506665882	CMakeFiles/PR3_2_iter.dir/functions/functions.cpp.o	bc6d384278a2cab
+6	496	1743532466507140620	CMakeFiles/PR3_2_iter_tests.dir/functions/functions.cpp.o	47f4a0a1d9add21f
+484	592	1743532466985952786	PR3_2_iter	129730d6613adcf6
+5	642	1743532466506928167	CMakeFiles/PR3_2_iter_tests.dir/tests/tests.cpp.o	489fb2446260e665
+643	1509	1743532468009238152	PR3_2_iter_tests	53a44552a8851080
+643	1509	1743532468009238152	PR3_2_iter_tests[1]_tests.cmake	53a44552a8851080
+643	1509	1743532468009238152	/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_2/PR3_2_iter/cmake-build-debug/PR3_2_iter_tests[1]_tests.cmake	53a44552a8851080
